@@ -7,7 +7,7 @@
 
 - My Lighthouse Labs final Project: [Spotifind](https://github.com/larsyaeger/spotifind/tree/main)
 
-- Reach me at **Larsyaeger@gmail.com**
+- Reach me on [Linkedin](https://www.linkedin.com/in/larsyaeger) or **Larsyaeger@gmail.com**
 
 - [Resume Link](https://resume.creddle.io/resume/3h2b95ar0x4)
 
