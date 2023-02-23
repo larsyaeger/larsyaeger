@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lars Yaeger</h1>
 <h3 align="center">A full stack developer based in Victoria British Columbia, and a recent grad from Lighthouse Labs bootcamp.</h3>
 
-- I’m currently working on: **NextJS Photography Portfolio**
+- I’m currently working on: [**NextJS Photography Portfolio**](https://github.com/larsyaeger/lars-yaeger-productions)
 
 - I’m currently learning **Python, React, NextJs**
 
