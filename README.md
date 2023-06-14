@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Lars Yaeger</h1>
 <h3 align="center">A full stack developer based in Victoria British Columbia, and a recent grad from Lighthouse Labs bootcamp.</h3>
 
-- I’m currently working on: **NextJS tutorials**
+- I’m currently working on: **Portfolio**
 
-- I’m currently learning **React, NextJs**
+- I’m currently learning **Python**
 
 - My Lighthouse Labs final Project: [Spotifind](https://github.com/larsyaeger/spotifind/tree/main)
 
