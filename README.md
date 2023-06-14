@@ -9,7 +9,7 @@
 
 - Reach me on [Linkedin](https://www.linkedin.com/in/larsyaeger) or **Larsyaeger@gmail.com**
 
-- [My Resume](https://resume.creddle.io/resume/3h2b95ar0x4)
+- [My Resume](https://flowcv.com/resume/2cf5ks1hr2)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
