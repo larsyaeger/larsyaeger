@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Lars Yaeger</h1>
-<h3 align="center">A full stack developer based in Victoria British Columbia, and a recent grad from Lighthouse Labs bootcamp.</h3>
+<h1 align="center">Lars Yaeger</h1>
+<h3 align="center">Web developer based in Victoria British Columbia, and a recent grad from Lighthouse Labs bootcamp.</h3>
 
 - I’m currently working on: **Portfolio**
 
