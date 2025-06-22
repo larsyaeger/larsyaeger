@@ -1,15 +1,3 @@
-<h1 align="center">Lars Yaeger</h1>
-<h3 align="center">Web developer based in Victoria British Columbia, and a recent grad from Lighthouse Labs bootcamp.</h3>
-
-- I’m currently working on: **Portfolio**
-
-- I’m currently learning **Python**
-
-- My Lighthouse Labs final Project: [Spotifind](https://github.com/larsyaeger/spotifind/tree/main)
-
-- Reach me on [Linkedin](https://www.linkedin.com/in/larsyaeger) or **Larsyaeger@gmail.com**
-
-- [My Resume](https://flowcv.com/resume/2cf5ks1hr2)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
